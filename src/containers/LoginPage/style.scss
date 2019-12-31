@@ -1,0 +1,16 @@
+.login-page {
+  min-height: 100vh;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 50px 100px;
+  .form-title {
+    margin-bottom: 30px;
+  }
+  .login-form {
+    display: block;
+    max-width: 500px;
+    padding: 30px;
+  }
+}
